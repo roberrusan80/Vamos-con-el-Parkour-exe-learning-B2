@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505174649DQGMBJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505174649J7UE04</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>VAMOS CON EL PARKOUR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA 6º de Educación Primaria </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ROBERTO RUANO SÁNCHEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta Situación de Aprendizaje (SDA) de Parkour, elaborada con eXeLearning, está dirigida al alumnado de 6º de Educación Primaria y tiene como finalidad desarrollar habilidades motrices básicas a través de desplazamientos naturales como saltos, equilibrios y giros. Mediante propuestas prácticas, dinámicas y seguras, el alumnado explorará sus posibilidades corporales, fomentando la autonomía, la creatividad y la superación personal. Asimismo, se promoverán valores como el respeto por el entorno, el trabajo cooperativo y la responsabilidad en la práctica de actividad física.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777992392529</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosqri2e-4i11gmy8v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA &quot;VAMOS CON EL PARKOUR&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA &quot;VAMOS CON EL PARKOUR&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA &quot;VAMOS CON EL PARKOUR&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA &quot;VAMOS CON EL PARKOUR&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2e-4i11gmy8v</odePageId>
+      <odeBlockId>block-1777707976246-gckrtgwsp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2e-4i11gmy8v</odePageId>
+          <odeBlockId>block-1777707976246-gckrtgwsp</odeBlockId>
+          <odeIdeviceId>idevice-1777707976243-w9rvai7t8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Bienvenidos a esta nueva situación de aprendizaje.</span></span></span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">A lo largo de esta Situación de Aprendizaje (SdA) nos iniciamos en el deporte del parkour donde no solo trabajaremos las CFB y las HMB sino que también desarrollaremos aspectos de trabajo en equipo y cooperativo, el aprender a aprender ya que es una actividad física que no tiene reglas ni formas concretas de superar un obstáculo, se convierte en una actividad física de naturaleza flexible y por tanto ideal para explorar formas de superar diferentes obstáculos y favorece, y el aprender a convivir por el respeto hacia las personas y hacia el entorno. El parkour, al ser una práctica que no favorece la competición entre los niños (sino la superación personal) favorece ese clima de colaboración y cooperación de unos con otros.</span></span></span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En las próximas sesiones descubriremos información, practicaremos y aprenderemos sobre un contenido que a toda la clase le gusta: los saltos, equilibrios...¡el parkour!</span></span></span></span></span></span></p>
+<p> <img src="{{context_path}}/content/resources/imagen 1.png" width="194" height="259" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Copyright: © claudiasartwork - </span></span></span></span><a href="http://www.redbubble.com/de/people/claudiasartwor"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">http://www.redbubble.com/de/people/claudiasartwor</span></span></span></span></a></span></span></p>
+<p style="text-align: center;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span><br /></p>
+<hr />
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777707976243-w9rvai7t8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Bienvenidos a esta nueva situación de aprendizaje.</span></span></span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">A lo largo de esta Situación de Aprendizaje (SdA) nos iniciamos en el deporte del parkour donde no solo trabajaremos las CFB y las HMB sino que también desarrollaremos aspectos de trabajo en equipo y cooperativo, el aprender a aprender ya que es una actividad física que no tiene reglas ni formas concretas de superar un obstáculo, se convierte en una actividad física de naturaleza flexible y por tanto ideal para explorar formas de superar diferentes obstáculos y favorece, y el aprender a convivir por el respeto hacia las personas y hacia el entorno. El parkour, al ser una práctica que no favorece la competición entre los niños (sino la superación personal) favorece ese clima de colaboración y cooperación de unos con otros.</span></span></span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En las próximas sesiones descubriremos información, practicaremos y aprenderemos sobre un contenido que a toda la clase le gusta: los saltos, equilibrios...¡el parkour!</span></span></span></span></span></span></p>\n<p> <img src=\"{{context_path}}/content/resources/imagen 1.png\" width=\"194\" height=\"259\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Copyright: © claudiasartwork - </span></span></span></span><a href=\"http://www.redbubble.com/de/people/claudiasartwor\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">http://www.redbubble.com/de/people/claudiasartwor</span></span></span></span></a></span></span></p>\n<p style=\"text-align: center;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span><br /></p>\n<hr />\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2i-2tflp21et</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>Temática a trabajar.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temática a trabajar.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temática a trabajar.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Temática a trabajar.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2i-2tflp21et</odePageId>
+      <odeBlockId>block-1777708179551-ukybbaz48</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2i-2tflp21et</odePageId>
+          <odeBlockId>block-1777708179551-ukybbaz48</odeBlockId>
+          <odeIdeviceId>idevice-1777708179549-uedp0jq5y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Hola </span></span></span></span><a href="mailto:chic@s"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">chic@s</span></span></span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> . Aquí os dejo el cartel informativo para que tengáis una idea de lo que vamos a trabajar y aprender en estos próximos días. </span></span></span></span></p>
+<p style="text-align: center;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE.pdf"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Espero os guste.</span></span></span></span><span dir="auto" style="vertical-align: inherit;"></span></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGkkBO5rA/XsGMMOgKaTns5aleXcHHyA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE.pdf"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><a href="https://www.canva.com/design/DAHGkkBO5rA/XsGMMOgKaTns5aleXcHHyA/view?utm_content=DAHGkkBO5rA&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE</a> de Roberto Ruano Sánchez</span></span></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777708179549-uedp0jq5y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Hola </span></span></span></span><a href=\"mailto:chic@s\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">chic@s</span></span></span></span></a><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> . Aquí os dejo el cartel informativo para que tengáis una idea de lo que vamos a trabajar y aprender en estos próximos días. </span></span></span></span></p>\n<p style=\"text-align: center;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE.pdf\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Espero os guste.</span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGkkBO5rA/XsGMMOgKaTns5aleXcHHyA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE.pdf\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><a href=\"https://www.canva.com/design/DAHGkkBO5rA/XsGMMOgKaTns5aleXcHHyA/view?utm_content=DAHGkkBO5rA&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">MIS HABILIDADES MOTRICES APLICADAS AL DEPORTE</a> de Roberto Ruano Sánchez</span></span></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2j-6chczy6e2</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>Línea temporal.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2j-6chczy6e2</odePageId>
+      <odeBlockId>block-1777709812638-40cgq95o0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2j-6chczy6e2</odePageId>
+          <odeBlockId>block-1777709812638-40cgq95o0</odeBlockId>
+          <odeIdeviceId>idevice-1777709812637-2wtsj7g2q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo en este apartado la LÍNEA TEMPORAL para que sepáis en todo momento el contenido que vamos a ir trabajando en cada sesión, el lugar de realización y nuestro forma de agruparnos, así como también los recursos que utilizaremos durante el trabajo a realizar. </p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHH-eDhLEw/ujy944Yo9DV7PMoU6JX3Dg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHH-eDhLEw/ujy944Yo9DV7PMoU6JX3Dg/view?utm_content=DAHH-eDhLEw&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">6º EP Línea temporal Parkour</a> de Roberto Ruano Sánchez</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777709812637-2wtsj7g2q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo en este apartado la LÍNEA TEMPORAL para que sepáis en todo momento el contenido que vamos a ir trabajando en cada sesión, el lugar de realización y nuestro forma de agruparnos, así como también los recursos que utilizaremos durante el trabajo a realizar. </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHH-eDhLEw/ujy944Yo9DV7PMoU6JX3Dg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHH-eDhLEw/ujy944Yo9DV7PMoU6JX3Dg/view?utm_content=DAHH-eDhLEw&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">6º EP Línea temporal Parkour</a> de Roberto Ruano Sánchez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2k-5ir1qe9uf</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>Guía didáctica.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2k-5ir1qe9uf</odePageId>
+      <odeBlockId>block-1777827339063-j2uioy0y4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2k-5ir1qe9uf</odePageId>
+          <odeBlockId>block-1777827339063-j2uioy0y4</odeBlockId>
+          <odeIdeviceId>idevice-1777827339061-04snxg9ey</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Situación de Aprendizaje de Parkour para 6º de Primaria, elaborada con eXeLearning, centrada en el desarrollo de habilidades motrices básicas y la práctica segura mediante desplazamientos naturales.</p>
+<figure class="exe-figure position-center" style="width: 399px;"><img src="{{context_path}}/content/resources/Parkour Info.png" width="399" height="375" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-ND</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Os dejo por aquí en este primer apartado un avance de actividades y su relación con los criterios de evaluación que tendré en cuenta. </p>
+<p style="text-align: center;"><strong><span style="color: #ba372a;">ÁNIMO <a href="mailto:CHIC@S">CHIC@S</a></span></strong></p>
+<p style="text-align: justify;"><strong><span style="color: #ba372a;"><iframe width="1000" height="563" src="https://docs.google.com/document/d/e/2PACX-1vQ7blulAYvtyVZuJaNyn8zwh8fFfNb2h5Fjqvr9lEjtruHzZINGlu7pVAPDZ4q0pWrymvBah0FFY0RV/pub?embedded=true"></iframe></span></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777827339061-04snxg9ey","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Situación de Aprendizaje de Parkour para 6º de Primaria, elaborada con eXeLearning, centrada en el desarrollo de habilidades motrices básicas y la práctica segura mediante desplazamientos naturales.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 399px;\"><img src=\"{{context_path}}/content/resources/Parkour Info.png\" width=\"399\" height=\"375\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-ND</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Os dejo por aquí en este primer apartado un avance de actividades y su relación con los criterios de evaluación que tendré en cuenta. </p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ba372a;\">ÁNIMO <a href=\"mailto:CHIC@S\">CHIC@S</a></span></strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #ba372a;\"><iframe width=\"1000\" height=\"563\" src=\"https://docs.google.com/document/d/e/2PACX-1vQ7blulAYvtyVZuJaNyn8zwh8fFfNb2h5Fjqvr9lEjtruHzZINGlu7pVAPDZ4q0pWrymvBah0FFY0RV/pub?embedded=true\"></iframe></span></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2l-cgvv0usob</odePageId>
+  <odeParentPageId>page-mosqri2k-5ir1qe9uf</odeParentPageId>
+  <pageName>Motivación.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Motivación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Motivación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2l-cgvv0usob</odePageId>
+      <odeBlockId>block-1777739568346-c0w4v3vfb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2l-cgvv0usob</odePageId>
+          <odeBlockId>block-1777739568346-c0w4v3vfb</odeBlockId>
+          <odeIdeviceId>idevice-1777739568345-1ar332g6x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #2dc26b;">Fase 1. MOTIVACIÓN.</span></strong></p>
+<p><span style="color: #e67e23;"><strong>Sesión 1. Aula ordinaria. Gran grupo-Pequeños grupos.</strong></span></p>
+<p><span style="color: #b96ad9;"><strong>Visionado del siguiente video.</strong></span></p>
+<p style="text-align: center;"><br /></p>
+<figure class="exe-figure exe-media position-center license-pd" style="width: 560px;" id="fig_izo0narwa"><iframe width="560" height="314" src="https://www.youtube.com/embed/ihBoqdOsQOo?si=3nt-8WOJmdd7yp57" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><span>Dominio público</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; color: #b96ad9;"><strong>Una vez introducida la SdA y visionado el video, vamos a realizar en gran grupo  una lectura sobre el Parkour en el Panel digital y vamos a contestar a una serie de preguntas en grupos de 4-5 alumn@s.</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #b96ad9;"><strong></strong></span><br /></p>
+<p style="text-align: center;"></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 800px;" id="fig_yp9t5zqq7"><iframe width="800" height="450" src="https://docs.google.com/document/d/e/2PACX-1vRvKLJiXl8JZ3nVnAdtjDBjsHbZQ9MXwfUyo8yohF8iO0dlAdEXr01z18Z2OnvC1_yi7nm2etlSRaB5/pub?embedded=true" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a></span></figcaption>
+</figure>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #b96ad9;"><strong></strong></span><br /></p>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777739568345-1ar332g6x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #2dc26b;\">Fase 1. MOTIVACIÓN.</span></strong></p>\n<p><span style=\"color: #e67e23;\"><strong>Sesión 1. Aula ordinaria. Gran grupo-Pequeños grupos.</strong></span></p>\n<p><span style=\"color: #b96ad9;\"><strong>Visionado del siguiente video.</strong></span></p>\n<p style=\"text-align: center;\"><br /></p>\n<figure class=\"exe-figure exe-media position-center license-pd\" style=\"width: 560px;\" id=\"fig_izo0narwa\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ihBoqdOsQOo?si=3nt-8WOJmdd7yp57\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><span>Dominio público</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt; color: #b96ad9;\"><strong>Una vez introducida la SdA y visionado el video, vamos a realizar en gran grupo  una lectura sobre el Parkour en el Panel digital y vamos a contestar a una serie de preguntas en grupos de 4-5 alumn@s.</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #b96ad9;\"><strong></strong></span><br /></p>\n<p style=\"text-align: center;\"></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 800px;\" id=\"fig_yp9t5zqq7\"><iframe width=\"800\" height=\"450\" src=\"https://docs.google.com/document/d/e/2PACX-1vRvKLJiXl8JZ3nVnAdtjDBjsHbZQ9MXwfUyo8yohF8iO0dlAdEXr01z18Z2OnvC1_yi7nm2etlSRaB5/pub?embedded=true\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #b96ad9;\"><strong></strong></span><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2l-na7l4u5yq</odePageId>
+  <odeParentPageId>page-mosqri2k-5ir1qe9uf</odeParentPageId>
+  <pageName>Activación.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2l-na7l4u5yq</odePageId>
+      <odeBlockId>block-1777740072143-7kwm51hjt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2l-na7l4u5yq</odePageId>
+          <odeBlockId>block-1777740072143-7kwm51hjt</odeBlockId>
+          <odeIdeviceId>idevice-1777740072142-skzhw3ecf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #2dc26b;">Fase 2. ACTIVACIÓN.</span></strong></p>
+<p><span style="color: #f1c40f;"><strong>Sesiones 2 y 3. GYM. Trabajo individual.</strong></span></p>
+<p><span style="color: #b96ad9;"><strong>*Ver contenido DUA.</strong></span></p>
+<p style="text-align: center;"></p>
+<p><strong><span style="color: #2dc26b;"></span></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777740072142-skzhw3ecf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #2dc26b;\">Fase 2. ACTIVACIÓN.</span></strong></p>\n<p><span style=\"color: #f1c40f;\"><strong>Sesiones 2 y 3. GYM. Trabajo individual.</strong></span></p>\n<p><span style=\"color: #b96ad9;\"><strong>*Ver contenido DUA.</strong></span></p>\n<p style=\"text-align: center;\"></p>\n<p><strong><span style=\"color: #2dc26b;\"></span></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosqri2l-na7l4u5yq</odePageId>
+      <odeBlockId>block-1777993666807-ltvpjqf4n</odeBlockId>
+      <blockName>Fase 2. ACTIVACIÓN.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2l-na7l4u5yq</odePageId>
+          <odeBlockId>block-1777993666807-ltvpjqf4n</odeBlockId>
+          <odeIdeviceId>idevice-1777993666806-80f4yuyeh</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">COMENZAMOS A PRACTICAR...</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Título: 🏃‍♂️ Circuito de Parkour</p>
+<p>Contenido:<br>El parkour es una actividad física que consiste en desplazarse superando obstáculos de forma creativa y segura. En esta sesión realizaremos un circuito con diferentes pruebas para mejorar nuestra coordinación, equilibrio y fuerza.</p>
+<p>Observa el circuito y prepárate para superar los retos.</p></div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p><audio controls="controls" src="{{context_path}}/content/resources/17779947792028e709q8ypfd.webm"><a href="{{context_path}}/content/resources/17779947792028e709q8ypfd.webm">f12aaa26-e49d-46fc-7204-f5a3d7d63fab.webm</a></audio><br></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">CONOCEMOS EL CIRCUITO.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Este circuito está formado por diferentes estaciones:</p>
+<p style="text-align: justify;">-Saltos<br>-Equilibrios<br>-Trepas<br>-Desplazamientos<br>-Superación de obstáculos<br><br></p>
+<p style="text-align: center;"><strong><span style="color: #b96ad9;">CADA ESTACIÓN TIENE UN NÚMERO Y UN RETO ESPECÍFICO.</span></strong></p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><figure class="exe-figure position-center" style="width: 640px;"><img src="{{context_path}}/content/resources/circuito_parkour.jpg" width="640" height="325" alt="">
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">ESTOS SON NUESTROS OBJETIVOS.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>1. Mejorar la coordinación y el equilibrio.<br>2. Desarrollar habilidades motrices básicas.<br>3. Adaptarse a diferentes retos físicos.<br>4. Participar de forma activa y respetuosa.</p>
+<p style="text-align: center;"><strong><span style="color: #843fa1;">¡TÚ PUEDES!</span></strong></p></div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p><audio controls="controls" src="{{context_path}}/content/resources/1777995714312rdpxb3le6yc.webm"><a href="{{context_path}}/content/resources/1777995714312rdpxb3le6yc.webm">773d2715-1582-2d2f-27a1-3da7dfa123dc.webm</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">REALIZA EL CIRCUITO.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Realiza el circuito pasando por todas las estaciones. Puedes adaptar la dificultad según tu nivel.</p>
+<p>👉 Opciones:</p>
+<p>Nivel básico: superar los obstáculos caminando o con ayuda.<br>Nivel medio: realizar los movimientos propuestos.<br>Nivel avanzado: hacerlo más rápido o con mayor precisión.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Realiza el circuito pasando por todas las estaciones. Puedes adaptar la dificultad según tu nivel.</p>
+<p>👉 Opciones:</p>
+<p>Nivel básico: superar los obstáculos caminando o con ayuda.<br>Nivel medio: realizar los movimientos propuestos.<br>Nivel avanzado: hacerlo más rápido o con mayor precisión.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">APRENDE A TU MANERA.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>🧠 Aprende a tu manera (DUA).</p>
+<p>🔵 ¿Cómo lo vas a entender?</p>
+<p>Explicación del profesor.<br>Observación del circuito.<br>Demostraciones prácticas.</p>
+<p><br>🟢 ¿Cómo puedes hacerlo?</p>
+<p>Eligiendo el nivel de dificultad.<br>Adaptando los movimientos.<br>Trabajando con compañeros.</p>
+<p><br>🟡 ¿Cómo te motivas?</p>
+<p>Superando retos.<br>Mejorando tu propio resultado.<br>Creando tus propios recorridos.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-3"><h2 style="display:none;">AUTOEVALÚATE.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>✅ ¿Cómo lo he hecho?</p>
+<p>Responde:</p>
+<p>¿He completado el circuito?<br>¿He respetado las normas?<br>¿Qué se me ha dado mejor?<br>¿Qué puedo mejorar?</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2m-wwxgsktas</odePageId>
+  <odeParentPageId>page-mosqri2k-5ir1qe9uf</odeParentPageId>
+  <pageName>Exploración.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exploración.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exploración.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2m-wwxgsktas</odePageId>
+      <odeBlockId>block-1777817945394-r00exuw7i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2m-wwxgsktas</odePageId>
+          <odeBlockId>block-1777817945394-r00exuw7i</odeBlockId>
+          <odeIdeviceId>idevice-1777817945392-4tj7nxagw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #2dc26b;">Fase 3. EXPLORACIÓN.</span></strong></p>
+<p><strong><span style="color: #f1c40f;">Sesión 4. AULA ORDINARIA. Grupo-clase.</span></strong></p>
+<p><span style="color: #b96ad9;"><strong>Sesión teórico-práctica.</strong></span></p>
+<p>Sesión en la que veremos y comprenderemos la importancia de ejecutar con seguridad las diferentes actividades que se proponen en esta SdA.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/cy94mvfvtwhjrj3f" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+<p><br /></p>
+<p>Para ello, visualizaremos este padlet  y veremos el 3º vídeo: ¿Cómo caer con seguridad?.</p>
+<p>Igualmente sacaremos música del 4º video para nuestras prácticas en gym.</p>
+<p><img src="{{context_path}}/content/resources/YO.png" width="100" height="100" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><a href="https://www.symbaloo.com/shared/AAAAAcVjNDMAA41-5ERdVA==" target="_blank" rel="noopener" title="">Symbaloo del Profe Rober</a></p>
+<p style="text-align: center;">*Desde aquí tendrás acceso a CANVA y otros recursos que pueden veniros bien para realizar vuestro trabajo.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777817945392-4tj7nxagw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #2dc26b;\">Fase 3. EXPLORACIÓN.</span></strong></p>\n<p><strong><span style=\"color: #f1c40f;\">Sesión 4. AULA ORDINARIA. Grupo-clase.</span></strong></p>\n<p><span style=\"color: #b96ad9;\"><strong>Sesión teórico-práctica.</strong></span></p>\n<p>Sesión en la que veremos y comprenderemos la importancia de ejecutar con seguridad las diferentes actividades que se proponen en esta SdA.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/cy94mvfvtwhjrj3f\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p><br /></p>\n<p>Para ello, visualizaremos este padlet  y veremos el 3º vídeo: ¿Cómo caer con seguridad?.</p>\n<p>Igualmente sacaremos música del 4º video para nuestras prácticas en gym.</p>\n<p><img src=\"{{context_path}}/content/resources/YO.png\" width=\"100\" height=\"100\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://www.symbaloo.com/shared/AAAAAcVjNDMAA41-5ERdVA==\" target=\"_blank\" rel=\"noopener\" title=\"\">Symbaloo del Profe Rober</a></p>\n<p style=\"text-align: center;\">*Desde aquí tendrás acceso a CANVA y otros recursos que pueden veniros bien para realizar vuestro trabajo.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2n-oe5havika</odePageId>
+  <odeParentPageId>page-mosqri2k-5ir1qe9uf</odeParentPageId>
+  <pageName>Aplicación.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2n-oe5havika</odePageId>
+      <odeBlockId>block-1777825038656-vgigzyb54</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2n-oe5havika</odePageId>
+          <odeBlockId>block-1777825038656-vgigzyb54</odeBlockId>
+          <odeIdeviceId>idevice-1777825038655-6xrldjdxs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #2dc26b;"><strong>Fase 4. APLICACIÓN.</strong></span></p>
+<p><span style="color: #e67e23;"><strong>Sesiones 5-6. Aula ordinaria. Trabajamos en Parejas.</strong></span></p>
+<p><strong><span style="color: #b96ad9;">Elaboramos nuestro video con CANVA.</span></strong></p>
+<p><strong><span style="color: #b96ad9;">En esta sesión elaboraremos un texto expositivo sobre el Parkour (algo sencillo) y crearemos nuestro propio video con un circuito simple de Parkour. </span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #b96ad9;"></span></strong></p>
+<figure class="exe-figure exe-media position-center license-pd" style="width: 400px;" id="fig_19repfecg"><iframe width="400" height="200" src="https://www.youtube.com/embed/2aofeJQdnps?si=K9XOt1rXl_D-OX6X" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><span>Dominio público</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong><span style="color: #b96ad9;"></span></strong></p>
+<p style="text-align: center;"><span style="color: #3598db;"><em><strong>¿POR QUÉ CANVA?</strong></em></span></p>
+<p style="text-align: center;"><iframe width="800" height="450" src="https://docs.google.com/document/d/e/2PACX-1vQHHsvcm19bzFAuuXf_aUF-TQxpqTI2LTTxHuRbO-lT96MzrS3Ms1b7VNJ72Isqb_fHxxnoXaH4RkXm/pub?embedded=true"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777825038655-6xrldjdxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #2dc26b;\"><strong>Fase 4. APLICACIÓN.</strong></span></p>\n<p><span style=\"color: #e67e23;\"><strong>Sesiones 5-6. Aula ordinaria. Trabajamos en Parejas.</strong></span></p>\n<p><strong><span style=\"color: #b96ad9;\">Elaboramos nuestro video con CANVA.</span></strong></p>\n<p><strong><span style=\"color: #b96ad9;\">En esta sesión elaboraremos un texto expositivo sobre el Parkour (algo sencillo) y crearemos nuestro propio video con un circuito simple de Parkour. </span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #b96ad9;\"></span></strong></p>\n<figure class=\"exe-figure exe-media position-center license-pd\" style=\"width: 400px;\" id=\"fig_19repfecg\"><iframe width=\"400\" height=\"200\" src=\"https://www.youtube.com/embed/2aofeJQdnps?si=K9XOt1rXl_D-OX6X\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><span>Dominio público</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong><span style=\"color: #b96ad9;\"></span></strong></p>\n<p style=\"text-align: center;\"><span style=\"color: #3598db;\"><em><strong>¿POR QUÉ CANVA?</strong></em></span></p>\n<p style=\"text-align: center;\"><iframe width=\"800\" height=\"450\" src=\"https://docs.google.com/document/d/e/2PACX-1vQHHsvcm19bzFAuuXf_aUF-TQxpqTI2LTTxHuRbO-lT96MzrS3Ms1b7VNJ72Isqb_fHxxnoXaH4RkXm/pub?embedded=true\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2n-m8k1c9z11</odePageId>
+  <odeParentPageId>page-mosqri2k-5ir1qe9uf</odeParentPageId>
+  <pageName>Estructuración.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Estructuración.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Estructuración.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2n-m8k1c9z11</odePageId>
+      <odeBlockId>block-1777826745536-pcd9ucyhu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2n-m8k1c9z11</odePageId>
+          <odeBlockId>block-1777826745536-pcd9ucyhu</odeBlockId>
+          <odeIdeviceId>idevice-1777826745535-z7uauqszy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #2dc26b;"><strong>Fase 5. ESTRUCTURACIÓN.</strong></span></p>
+<p><span style="color: #e67e23;"><strong>Sesiones 7-8. GYM. Individual y parejas.</strong></span></p>
+<p><strong><span style="color: #b96ad9;">Sesiones sobre seguridad en el parkour:</span></strong></p>
+<p><strong><span style="color: #b96ad9;">(1): normas de seguridad en el parkour, recepción y equilibrios.</span></strong></p>
+<p><strong><span style="color: #b96ad9;">(2): cuadrupedia, volteos, recepción simple, recepción rodada y equilibrios.</span></strong></p>
+<p><strong><span style="color: #b96ad9;">(3): Qué no hacer nunca en Parkour.</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #b96ad9;"></span></strong></p>
+<figure class="exe-figure exe-media position-center license-pd" style="width: 560px;" id="fig_4rmsd7523"><iframe width="560" height="315" src="https://www.youtube.com/embed/EKEu3OO2GkI?si=euvN3UYAF4Ehur5-" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><span>Dominio público</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong><span style="color: #b96ad9;"></span></strong></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777826745535-z7uauqszy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #2dc26b;\"><strong>Fase 5. ESTRUCTURACIÓN.</strong></span></p>\n<p><span style=\"color: #e67e23;\"><strong>Sesiones 7-8. GYM. Individual y parejas.</strong></span></p>\n<p><strong><span style=\"color: #b96ad9;\">Sesiones sobre seguridad en el parkour:</span></strong></p>\n<p><strong><span style=\"color: #b96ad9;\">(1): normas de seguridad en el parkour, recepción y equilibrios.</span></strong></p>\n<p><strong><span style=\"color: #b96ad9;\">(2): cuadrupedia, volteos, recepción simple, recepción rodada y equilibrios.</span></strong></p>\n<p><strong><span style=\"color: #b96ad9;\">(3): Qué no hacer nunca en Parkour.</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #b96ad9;\"></span></strong></p>\n<figure class=\"exe-figure exe-media position-center license-pd\" style=\"width: 560px;\" id=\"fig_4rmsd7523\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EKEu3OO2GkI?si=euvN3UYAF4Ehur5-\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><span>Dominio público</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong><span style=\"color: #b96ad9;\"></span></strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2o-4ajfvq98c</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>Evaluación.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2o-4ajfvq98c</odePageId>
+      <odeBlockId>block-1777828975177-eqidbwedq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2o-4ajfvq98c</odePageId>
+          <odeBlockId>block-1777828975177-eqidbwedq</odeBlockId>
+          <odeIdeviceId>idevice-1777828975176-swvme402p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado podréis ver cómo vamos a evaluar esta SdA. </p>
+<p>Concretamente utilizaremos una Lista de cotejo y una Rúbrica. </p>
+<p>Y recordad: ¡LA ACTITUD Y VUESTRO ESFUERZO SON FUNDAMENTALES!</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><iframe width="1000" height="563" src="https://docs.google.com/document/d/e/2PACX-1vQ5mhvXku64PkeSUZqa58xTJx8wFcdTYMeeUJcnlZtABd1G4pkWo3gfHBCqF_MIbrarrbZErZ3eHQi-/pub?embedded=true"></iframe></p>
+<p style="text-align: center;"><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 800px;" id="fig_yzxd9xb8o"><iframe width="800" height="450" src="https://docs.google.com/document/d/e/2PACX-1vTNJjcdgxc3-MFW30-R_RTnsAtVf6YByaUK8-ogED4m2hWtBvqDhGNuVAYPqFr3J5C9arxYjZ5abQAY/pub?embedded=true" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777828975176-swvme402p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado podréis ver cómo vamos a evaluar esta SdA. </p>\n<p>Concretamente utilizaremos una Lista de cotejo y una Rúbrica. </p>\n<p>Y recordad: ¡LA ACTITUD Y VUESTRO ESFUERZO SON FUNDAMENTALES!</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"1000\" height=\"563\" src=\"https://docs.google.com/document/d/e/2PACX-1vQ5mhvXku64PkeSUZqa58xTJx8wFcdTYMeeUJcnlZtABd1G4pkWo3gfHBCqF_MIbrarrbZErZ3eHQi-/pub?embedded=true\"></iframe></p>\n<p style=\"text-align: center;\"><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 800px;\" id=\"fig_yzxd9xb8o\"><iframe width=\"800\" height=\"450\" src=\"https://docs.google.com/document/d/e/2PACX-1vTNJjcdgxc3-MFW30-R_RTnsAtVf6YByaUK8-ogED4m2hWtBvqDhGNuVAYPqFr3J5C9arxYjZ5abQAY/pub?embedded=true\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2p-1eb5nae20</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>No te olvides...</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>No te olvides...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>No te olvides...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2p-1eb5nae20</odePageId>
+      <odeBlockId>block-1777820274400-d5fnxlze3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2p-1eb5nae20</odePageId>
+          <odeBlockId>block-1777820274400-d5fnxlze3</odeBlockId>
+          <odeIdeviceId>idevice-1777820274398-o9fj03otd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Recuerda SIEMPRE proteger tu identidad en la red.</p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0;"><iframe width="800px" height="1600px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="PROTEGE TU IDENTIDAD EN LA RED." frameborder="0" src="https://view.genially.com/69edf976081537379c54ac20" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777820274398-o9fj03otd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Recuerda SIEMPRE proteger tu identidad en la red.</p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 200%; padding-top: 0; height: 0;\"><iframe width=\"800px\" height=\"1600px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"PROTEGE TU IDENTIDAD EN LA RED.\" frameborder=\"0\" src=\"https://view.genially.com/69edf976081537379c54ac20\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqri2p-6icdwcdcm</odePageId>
+  <odeParentPageId>page-mosqri2e-4i11gmy8v</odeParentPageId>
+  <pageName>Créditos.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqri2p-6icdwcdcm</odePageId>
+      <odeBlockId>block-1777829600045-asl6wiip5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqri2p-6icdwcdcm</odePageId>
+          <odeBlockId>block-1777829600045-asl6wiip5</odeBlockId>
+          <odeIdeviceId>idevice-1777829600044-9y9sv2khp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">VAMOS CON EL PARKOUR</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta Situación de Aprendizaje (SDA) de Parkour, elaborada con eXeLearning, está dirigida al alumnado de 6º de Educación Primaria y tiene como finalidad desarrollar habilidades motrices básicas a través de desplazamientos naturales como saltos, equilibrios y giros. Mediante propuestas prácticas, dinámicas y seguras, el alumnado explorará sus posibilidades corporales, fomentando la autonomía, la creatividad y la superación personal. Asimismo, se promoverán valores como el respeto por el entorno, el trabajo cooperativo y la responsabilidad en la práctica de actividad física.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">ROBERTO RUANO SÁNCHEZ</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#5f1075;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
